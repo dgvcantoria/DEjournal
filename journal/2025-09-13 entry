@@ -1,0 +1,41 @@
+# Journal — {{September 13, 2025}} — {{Building Data Pipelines}}
+
+## 1) What I learned (bullets, not prose)
+- Difference between ETL (saves storage) and ELT (saves all data that can be viewed again) and why one is used over the other
+- dlt speeds up loading of data from set up codes
+- Clickhouse is an example of database with the following features: high performance, column-oriented, OLAP
+- Structured data are in spreadsheet format
+- Unstructured data can be anything that is column-based like emails, pictures, videos
+- Semistructured are usually in Json format
+
+## 2) New vocabulary (define in your own words)
+- ETL - Extract Transform Load
+- ELT - Extract Load Transform
+- dlt - data load tool
+- dbt - data build tool
+- Clickhouse - an example of a database
+- OLAP - Online Analytics Processing
+- OLTP - Online Transactional Processing
+- Sandbox - an extra database and safe space used for experiments
+
+## 3) Data Engineering mindset applied (what principles did I use?)
+- 
+
+## 4) Decisions & assumptions (why, alternatives, trade-offs)
+- 
+
+## 5) Open questions (things I still don’t get)
+- 
+
+## 6) Next actions (small, doable steps)
+- [ ] 
+
+## 7) Artifacts & links (code, queries, dashboards)
+- 
+
+---
+
+### Mini reflection (3–5 sentences)
+What surprised me? What would I do differently next time? What will I watch out for in production?
+
+### BONUS: What is a meme that best describes what you feel or your learning today?
